@@ -286,3 +286,5 @@ adder <- function(x,y){
 adder(2,3)
 
 # This is the end of workshop!
+
+# to link with github repository git remote add origin https://github.com/danuta-w/scw_2018_R
